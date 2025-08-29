@@ -1,16 +1,22 @@
-# tasks
+# Anime Plus  
 
-A new Flutter project.
+**Anime Plus** is a mobile app that allows users to watch anime, read manga, and manage their favorite titles. It provides a smooth entertainment experience with options to like, save, and revisit your favorite shows or manga anytime. Built using **Flutter** with **Firebase** as the backend.  
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 🚀 Features  
+- 🎥 **Watch Anime** – Stream your favorite anime series  
+- 📖 **Read Manga** – Browse and read manga within the app  
+- ❤️ **Favorites & Likes** – Save anime/manga to favorites and like them  
+- 🔒 **User Authentication** – Secure login & signup with Firebase Auth  
+- ☁️ **Cloud Sync** – Store and sync favorites across devices with Firebase Firestore  
+- 🔔 **Push Notifications** – Stay updated with new episodes/manga releases  
 
-A few resources to get you started if this is your first Flutter project:
+---
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 🛠️ Tech Stack  
+- **Frontend**: Flutter (Dart)  
+- **Backend & Database**: Firebase (Auth, Firestore, Storage)  
+- **Notifications**: Firebase Cloud Messaging (FCM)  
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
